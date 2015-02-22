@@ -4,6 +4,7 @@
 * The subjects were assigned to either a training group or a test group (treatment variable). 
 * Data were collected for 6 activities (Walking, walking upstairs, walking downstairs, Standing, Sitting, and laying). 
 * The remaining 66 variables are means and standard deviations of measurments from the accelerometer (Acc) or gyroscope (Gyro). Many of the variables are recorded in three directions (x, y, and z). The measurements are attributed to movement of the subject (Body) or due to gravity (Gravity) and refer to frequency (f) or time (t) domains. All 66 varibles were normalized and thus have no units. 
+* The final data submitted (GetDataCourseProject) reports the averages of each of the 66 variables for each activity within each subject. 
 * For more details on the original study and the data see the citation below.
 
 ##List of variables in the file GetDataCourseProject.txt
